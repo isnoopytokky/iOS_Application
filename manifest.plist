@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.pttict.stationman</string>
+				<string>com.ptt.gtmiFix</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>StationManager</string>
+				<string>PTT Gtm iFix</string>
 			</dict>
 		</dict>
 	</array>
